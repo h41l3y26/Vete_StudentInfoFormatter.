@@ -1,0 +1,4 @@
+bad_name = print(input("Enter first name:"))
+bad_lastname = print(input("Enter last name:"))
+bad_section = print(input("Enter section:"))
+bad_subject = print(input("Enter favorite subject:"))
