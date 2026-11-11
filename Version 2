@@ -1,1 +1,18 @@
+bad_name = print(input("Enter first name:"))
+bad_lastname = print(input("Enter last name:"))
+bad_section = print(input("Enter section:"))
+bad_subject = print(input("Enter favorite subject:"))
 
+fullname= bad_name and bad_lastname
+print("")
+print("Formatted Output:")
+clean_name= f"Name: {fullname.capitalize()}"
+print(Name)
+clean_code= f"Name Code: {fullname.capitlize()}"
+print(clean_code)
+clean_section = f"Section: {bad_section.upper()}"
+print(clean_section)
+clean_subject= f"Favorite Subject: {bad_subject.capitlize()}"
+print(clean_subject)
+clean_count = f"Character Count: {fullname.len()}"
+print(clean_count)
